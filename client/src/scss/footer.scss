@@ -1,0 +1,14 @@
+footer {
+    display: flex;
+    justify-content: space-between;
+    border-top: 2px solid black;
+    padding: 1%;
+    background-color: #212121;
+    color: #dcdcdc;
+    h4 {
+        font-size: 1.3rem;
+    }
+    p {
+        text-transform: uppercase;
+    }
+}
